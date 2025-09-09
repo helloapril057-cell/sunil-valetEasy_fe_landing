@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "valeteasy-d9cda",
+    "public": "built_web/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  }
+}
